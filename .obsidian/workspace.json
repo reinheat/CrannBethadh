@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "3c8e30a76c14e762",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +170,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,8 +177,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6b9448a2ee93131c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,12 +204,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ba6cef0ab748627",
+  "active": "3c8e30a76c14e762",
   "lastOpenFiles": [
-    "README.md",
-    "Test.md"
+    "Untitled.base",
+    "Untitled 1.base",
+    "Test.md",
+    "The Tempting Manipulation in Othello, the Moor of Venice.md",
+    "The Motif of Distractions in Irwin Shaw's The Girls in Their Summer Dresses.md",
+    "Meditations.md",
+    "Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",
+    "Maggie's Character Shift in Alice Walker's Everyday Use.md",
+    "Line of Inquiry - How Does August Wilson Utilize the Concept of Relationships and the Responsibilities Inherent in Them to Characterize Troy.md",
+    "False Objectivity in F. Scott Fitzgerald's The Great Gatsby.md",
+    "Establishing Othello's Nobility in Act 1, Scene 3 of William Shakespeare's Othello, the Moor of Venice.md",
+    "Contract.md",
+    "README.md"
   ]
 }
