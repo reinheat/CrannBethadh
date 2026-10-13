@@ -11,10 +11,14 @@
             "id": "cba24bc0989ef949",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Tempting Manipulation in Othello, the Moor of Venice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tempting Manipulation in Othello, the Moor of Venice"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "The Ramparts of Ice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,13 +103,11 @@
               "title": "Word-Smith"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1aa7b3edfb832dc7",
@@ -224,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89243d9ef9928c3a",
+  "active": "cba24bc0989ef949",
   "lastOpenFiles": [
     "The Ramparts of Ice.md",
     "Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",

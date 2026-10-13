@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-12 21:01:10
+- written: 2026-10-12 21:10:01
 
 ```json
 {
@@ -57,7 +57,7 @@ not the plugin folder — can get everything back.
   "pluginEnabled": true,
   "scopeMode": "include",
   "scopePaths": [],
-  "countExclude": null,
+  "countExclude": [],
   "zenMode": true,
   "fullscreen": false,
   "leftSidebar": false,
@@ -79,7 +79,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": true,
+  "zenEnabled": false,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
@@ -600,7 +600,26 @@ not the plugin folder — can get everything back.
     "footnotePlace": "foot",
     "highlights": false,
     "paperId": "letter"
-  }
+  },
+  "organizerOpen": [],
+  "uniColsOff": [
+    "grade",
+    "modified",
+    "paras",
+    "tasks",
+    "tags",
+    "created",
+    "read",
+    "pages",
+    "ftype",
+    "backlinks",
+    "outlinks",
+    "footnotes",
+    "chars",
+    "charsall",
+    "sentences",
+    "vocab"
+  ]
 }
 ```
 <!-- wordsmith:settings:end -->
