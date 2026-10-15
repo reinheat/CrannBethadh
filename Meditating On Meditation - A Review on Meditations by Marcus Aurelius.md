@@ -3,6 +3,8 @@ date: 2026-01-27
 tags:
   - philosophy
   - essay
+  - reflection
+  - review
 word count: 963
 ---
 [[Marcus Aurelius]] says that “[p]eople who labor all their lives but have no purpose to direct every thought and impulse toward are wasting their time—even when hard at work” (Aurelius 2.7). This is but one of the ideas proposed in Ta Eis Heauton, meaning “Things Unto Himself,” or by the more modern name, [[Meditations]]. The words written by Aurelius were never intended to be published; they were written purely as observations of the universe and how Aurelius saw himself within it. It was only after his death that the works were found, translated, and published. Aurelius lived as a [[Roman emperor]] and is commonly referred to as the last of the [[Five Good Emperors]]. Near-constant warfare, plagues, and hardship plagued his rule. It was during the wars with the Germanic tribes that Aurelius would write Meditations as a method of self-examination, discipline, and moral improvement.
