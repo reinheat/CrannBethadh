@@ -34,9 +34,12 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        # NOTE: invoked via node directly (not npx) because the Windows
+        # commit stripped the execute bit from quartz/bootstrap-cli.mjs,
+        # which makes npx fail with "Permission denied" (exit 127).
+        run: node ./quartz/bootstrap-cli.mjs plugin install
       - name: Build Quartz
-        run: npx quartz build -d .
+        run: node ./quartz/bootstrap-cli.mjs build -d .
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
