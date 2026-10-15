@@ -293,7 +293,7 @@
   "quickCycleCloseOnLeave": false,
   "enableFileTreeCounts": false,
   "fileTreeFlags": false,
-  "treeOrder": true,
+  "treeOrder": false,
   "treeOrderForcedOn": true,
   "fileTreeFolderIcons": true,
   "fileTreeKindIcons": false,

@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-12 21:10:01
+- written: 2026-10-15 01:26:51
 
 ```json
 {
@@ -304,7 +304,7 @@ not the plugin folder — can get everything back.
   "quickCycleCloseOnLeave": false,
   "enableFileTreeCounts": false,
   "fileTreeFlags": false,
-  "treeOrder": true,
+  "treeOrder": false,
   "treeOrderForcedOn": true,
   "fileTreeFolderIcons": true,
   "fileTreeKindIcons": false,
