@@ -66,7 +66,7 @@
   "vimPanelHeight": 23,
   "barBottomGap": 23,
   "focusedFileMode": false,
-  "enableTypewriter": false,
+  "enableTypewriter": true,
   "editorPaddingH": 100,
   "zenEnabled": true,
   "zenTitlebarMatch": true,
