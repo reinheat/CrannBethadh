@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Reflections/On The Subject of Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "On The Subject of Death"
             }
           }
         ],
@@ -132,11 +132,13 @@
               "title": "Word-Smith"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1aa7b3edfb832dc7",
@@ -256,10 +258,11 @@
   },
   "active": "ad71b5b3a21d5db8",
   "lastOpenFiles": [
+    "Reflections/On the Subject of Narratives Read Through a Period of Time.md",
+    "index.md",
     "README.md",
     "Reflections/On The Subject of Death.md",
     "SETUP.md",
-    "index.md",
     "New Text Document.txt",
     "Essays/The Motif of Distractions in Irwin Shaw's The Girls in Their Summer Dresses.md",
     "Essays/Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",
@@ -269,7 +272,6 @@
     "Education",
     "Reviews",
     "Essays/Establishing Othello's Nobility in Act 1, Scene 3 of William Shakespeare's Othello, the Moor of Venice.md",
-    "Reflections/On the Subject of Narratives Read Through a Period of Time.md",
     "Essays",
     "Reflections",
     "Word-Smith/ws-settings.md",

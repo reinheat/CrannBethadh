@@ -6,12 +6,12 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-15 01:26:51
+- written: 2026-10-15 02:23:18
 
 ```json
 {
   "barThemeEnabled": true,
-  "barTheme": "custom",
+  "barTheme": "kanagawa",
   "barThemeOrder": [],
   "barThemeHidden": [
     "modus",
@@ -79,7 +79,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
@@ -202,7 +202,7 @@ not the plugin folder — can get everything back.
   "paragraphIndentEm": 4,
   "paragraphIndentMode": "single",
   "lineSpacing": 1.5,
-  "editorFont": "Google Sans Flex",
+  "editorFont": "Inter",
   "editorFontDefaultCleared": true,
   "limitLineLength": false,
   "maxLineChars": 64,
@@ -268,18 +268,18 @@ not the plugin folder — can get everything back.
   "citeCustomAround": "parens",
   "citeCustomEntry": "{authors-full}. {year}. {title*}.[ {place}:][ {publisher}.]",
   "citeMarks": true,
-  "posEnabled": false,
+  "posEnabled": true,
   "posDimOthers": true,
   "checkDimOthers": false,
-  "posNoun": false,
+  "posNoun": true,
   "posNounColor": "#4f9dde",
-  "posVerb": false,
+  "posVerb": true,
   "posVerbColor": "#4caf7d",
-  "posAdjective": false,
+  "posAdjective": true,
   "posAdjectiveColor": "#d98cc4",
-  "posAdverb": false,
+  "posAdverb": true,
   "posAdverbColor": "#e0913a",
-  "posConjunction": false,
+  "posConjunction": true,
   "posConjunctionColor": "#9aa0a6",
   "typographyEnabled": false,
   "typoSmartQuotes": true,
