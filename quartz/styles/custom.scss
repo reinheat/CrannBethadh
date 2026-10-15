@@ -1,3 +1,78 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// (Pirata One for the Nave Letter is loaded via <link> in quartz/components/Head.tsx)
+
+// ============================================================================
+// Crann Bethadh — broadsheet dark theme ("Batch 07" winner)
+// Serif body, centered 680px column with left-aligned prose, Pirata One
+// "Nave Letter" drop cap, masthead / title / date article header.
+// ============================================================================
+
+// ---- Article column: centered, left-aligned prose ---------------------------
+.center > article.popover-hint {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+// ---- Broadsheet article header ---------------------------------------------
+h1.article-title {
+  text-align: center;
+  font-weight: 400;
+  font-size: 2.1rem;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+
+  // masthead eyebrow above the title
+  &::before {
+    content: "Crann Bethadh";
+    display: block;
+    font-size: 0.75rem;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 1.1rem;
+  }
+}
+
+// dateline: centered, quiet
+p.content-meta {
+  text-align: center;
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+// hide the properties/tags block for the clean masthead/title/date header
+details.note-properties {
+  display: none;
+}
+
+// ---- Nave Letter ------------------------------------------------------------
+// Monumental blackletter first letter, floated tight to the prose;
+// text wraps underneath once it clears the letter.
+article.popover-hint .markdown-rendered > p:first-of-type::first-letter {
+  font-family: "Pirata One", "Newsreader", serif;
+  font-size: 6.2rem;
+  line-height: 0.78;
+  float: left;
+  padding-right: 0.14em;
+  padding-top: 0.06em;
+  color: var(--dark);
+}
+
+// ---- Quiet chrome to match --------------------------------------------------
+.page-header {
+  border-bottom: 1px solid var(--lightgray);
+}
+
+// internal links: warm bone, underline on hover only
+a.internal {
+  color: var(--secondary);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

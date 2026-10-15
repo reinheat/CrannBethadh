@@ -20,30 +20,31 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      title: Newsreader
+      header: Newsreader
+      body: Newsreader
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f4ead3"
+        lightgray: "#e0d3b6"
+        gray: "#8a7d64"
+        darkgray: "#4a4234"
+        dark: "#1a1712"
+        secondary: "#6b5f45"
+        tertiary: "#8a7d64"
+        highlight: rgba(107, 95, 69, 0.12)
+        textHighlight: "#6b5f4544"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#14120e"
+        lightgray: "#2e2921"
+        gray: "#8d8471"
+        darkgray: "#d8d0bc"
+        dark: "#ece5d3"
+        secondary: "#c9bfa8"
+        tertiary: "#a89a7c"
+        highlight: rgba(201, 191, 168, 0.10)
+        textHighlight: "#c9bfa844"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

@@ -55,6 +55,11 @@ export default (() => {
             {cfg.theme.typography.title && (
               <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
             )}
+            {/* Crann Bethadh: Pirata One for the Nave Letter drop cap */}
+            <link
+              rel="stylesheet"
+              href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap"
+            />
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
