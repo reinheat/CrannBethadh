@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/On The Subject of Valuing Life.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "On The Subject of Valuing Life"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1aa7b3edfb832dc7",
@@ -254,8 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad71b5b3a21d5db8",
+  "active": "e9b7fe1cc08eb656",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "Reflections/On The Subject of Valuing Life.md",
     "Reflections/On the Subject of Narratives Read Through a Period of Time.md",
     "Essays/The Tempting Manipulation in Othello, the Moor of Venice.md",
     "Essays/Establishing Othello's Nobility in Act 1, Scene 3 of William Shakespeare's Othello, the Moor of Venice.md",
@@ -264,9 +267,6 @@
     "Essays/Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",
     "Essays/Maggie's Character Shift in Alice Walker's Everyday Use.md",
     "Essays/The Motif of Distractions in Irwin Shaw's The Girls in Their Summer Dresses.md",
-    "Reflections/On The Subject of Valuing Life.md",
-    "index.md",
-    "README.md",
     "SETUP.md",
     "New Text Document.txt",
     "Test.md",
