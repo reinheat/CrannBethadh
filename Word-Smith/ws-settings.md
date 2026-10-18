@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-18 01:34:18
+- written: 2026-10-18 01:50:05
 
 ```json
 {
@@ -79,7 +79,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": true,
   "editorPaddingH": 100,
-  "zenEnabled": true,
+  "zenEnabled": false,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
