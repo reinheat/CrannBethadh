@@ -2,6 +2,7 @@
 date: 2026-10-17
 tags:
   - creative-writing
+  - MOC
 ---
 %%
 *This is an MOC, for context on MOCs look at [[Master of Contents|MOC]]*
