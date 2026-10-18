@@ -113,11 +113,13 @@
               "title": "Word-Smith"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1aa7b3edfb832dc7",
