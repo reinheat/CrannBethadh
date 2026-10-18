@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-15 02:45:56
+- written: 2026-10-17 21:06:58
 
 ```json
 {
@@ -228,16 +228,16 @@ not the plugin folder — can get everything back.
   "hemFlashTarget": "both",
   "syntaxSkipCode": true,
   "syntaxStyle": "text",
-  "checksEnabled": false,
+  "checksEnabled": true,
   "checkStyle": "line",
   "checkFiller": false,
   "checkFillerSoft": false,
   "checkFillerColor": "#8a7fd1",
   "checkPassive": false,
   "checkPassiveColor": "#c2544d",
-  "checkIllusion": false,
+  "checkIllusion": true,
   "checkIllusionColor": "#d98cc4",
-  "checkMisused": false,
+  "checkMisused": true,
   "checkMisusedColor": "#e0913a",
   "checkPronoun": false,
   "checkPronounColor": "#4f9dde",
