@@ -6,12 +6,12 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-18 01:50:05
+- written: 2026-10-18 02:03:05
 
 ```json
 {
   "barThemeEnabled": true,
-  "barTheme": "kanagawa",
+  "barTheme": "custom",
   "barThemeOrder": [],
   "barThemeHidden": [
     "modus",
@@ -79,7 +79,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": true,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
@@ -202,17 +202,17 @@ not the plugin folder — can get everything back.
   "paragraphIndentEm": 4,
   "paragraphIndentMode": "single",
   "lineSpacing": 1.5,
-  "editorFont": "Inter",
+  "editorFont": "",
   "editorFontDefaultCleared": true,
   "limitLineLength": false,
   "maxLineChars": 64,
   "justifyText": true,
   "centerHeadings": false,
   "paragraphNumbers": false,
-  "markSpaces": false,
+  "markSpaces": true,
   "markersEnabled": true,
-  "markTabs": false,
-  "markParagraphs": false,
+  "markTabs": true,
+  "markParagraphs": true,
   "markEndOfLines": true,
   "markBlankLines": false,
   "hemingwayEnabled": false,
