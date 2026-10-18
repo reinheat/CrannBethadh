@@ -8,44 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9b7fe1cc08eb656",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c26a6e3a0c19e565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflections/On the Subject of Narratives Read Through a Period of Time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "On the Subject of Narratives Read Through a Period of Time"
-            }
-          },
-          {
-            "id": "40f6b03f446f120d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/The Tempting Manipulation in Othello, the Moor of Venice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Tempting Manipulation in Othello, the Moor of Venice"
-            }
-          },
-          {
             "id": "ad71b5b3a21d5db8",
             "type": "leaf",
             "state": {
@@ -70,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,13 +225,15 @@
   },
   "active": "7c253d4dbb4d5bb6",
   "lastOpenFiles": [
+    "Essays/The Tempting Manipulation in Othello, the Moor of Venice.md",
     "Creative Ideas MOC.md",
+    "Pirates of the Caribean[[.md",
+    "Thelmar.md",
     "index.md",
     "Reflections/On the Subject of Narratives Read Through a Period of Time.md",
     "Word-Smith/ws-settings.md",
     "README.md",
     "Reflections/On The Subject of Valuing Life.md",
-    "Essays/The Tempting Manipulation in Othello, the Moor of Venice.md",
     "Essays/Establishing Othello's Nobility in Act 1, Scene 3 of William Shakespeare's Othello, the Moor of Venice.md",
     "Essays/False Objectivity in F. Scott Fitzgerald's The Great Gatsby.md",
     "Essays/Line of Inquiry - How Does August Wilson Utilize the Concept of Relationships and the Responsibilities Inherent in Them to Characterize Troy.md",
