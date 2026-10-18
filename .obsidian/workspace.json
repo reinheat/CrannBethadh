@@ -24,15 +24,14 @@
               "type": "markdown",
               "state": {
                 "file": "On the Subject of Stalling.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "On the Subject of Stalling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +99,7 @@
               "title": "Word-Smith"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On the Subject of Stalling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On the Subject of Stalling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -184,7 +180,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On the Subject of Stalling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd4c9b4c31d6cf4a",
+  "active": "e2078c3f9497d2f1",
   "lastOpenFiles": [
     "On the Subject of Stalling.md",
     "Reflections/On the Subject of the Commons and Originality.md",
