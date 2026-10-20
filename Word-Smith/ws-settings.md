@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Crann Bethadh
-- written: 2026-10-18 02:14:51
+- written: 2026-10-20 03:27:35
 
 ```json
 {
@@ -60,7 +60,7 @@ not the plugin folder — can get everything back.
   "countExclude": [],
   "zenMode": true,
   "fullscreen": false,
-  "leftSidebar": false,
+  "leftSidebar": true,
   "rightSidebar": true,
   "hideProperties": true,
   "hideInlineTitle": true,
@@ -77,9 +77,9 @@ not the plugin folder — can get everything back.
   "vimPanelHeight": 23,
   "barBottomGap": 23,
   "focusedFileMode": false,
-  "enableTypewriter": false,
+  "enableTypewriter": true,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
