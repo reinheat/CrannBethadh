@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af7ae435627830c6",
+            "id": "ec5469f5d7cf20b8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -207,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af7ae435627830c6",
+  "active": "ec5469f5d7cf20b8",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "On the Subject of Stalling.md",
     "Untitled.md",
     "Reflections/On the Subject of the Commons and Originality.md",
