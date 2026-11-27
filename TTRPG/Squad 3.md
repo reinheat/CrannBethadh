@@ -8,4 +8,5 @@ tags:
 *This is an MOC, for context on MOCs look at [[Master of Contents|MOC]]*
 %%
 
-The First Mission faced by Squad 3 is [[Gaspe Harbor]].
+The First Sin faced by Squad 3 is [[GH-01]].The Session Notes and Plans can be found under [[SQ3 - Session 1]]
+
