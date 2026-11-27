@@ -5,3 +5,4 @@ tags:
   - ttrpg
   - SessionPrep
 ---
+This session will be the maiden voyage for Squad Three. A [[CASTLE]] enlistment
