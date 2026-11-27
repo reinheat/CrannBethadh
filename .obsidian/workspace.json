@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1aa7b3edfb832dc7",
@@ -305,10 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "278ff914dbfedf2c",
+  "active": "400942725b2f283d",
   "lastOpenFiles": [
+    "Prescripts",
     "TTRPG/SQ3 - Session 1.md",
-    "GBPOI.md",
+    "TTRPG/GBPOI.md",
     "TTRPG/Squad 3.md",
     "TTRPG/GH-01.md",
     "GH-01.md",
@@ -318,7 +318,7 @@
     "Untitled.md",
     "Reflections/On the Subject of MOCS.md",
     "Master of Contents.md",
-    "On the Subject of Stalling.md",
+    "Reflections/On the Subject of Stalling.md",
     "Reflections/On the Subject of the Commons and Originality.md",
     "index.md",
     "README.md",
@@ -333,7 +333,6 @@
     "Essays/Line of Inquiry - How Does August Wilson Utilize the Concept of Relationships and the Responsibilities Inherent in Them to Characterize Troy.md",
     "Essays/Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",
     "Essays/Maggie's Character Shift in Alice Walker's Everyday Use.md",
-    "Essays/The Motif of Distractions in Irwin Shaw's The Girls in Their Summer Dresses.md",
     "New Text Document.txt",
     "Education",
     "Reviews",

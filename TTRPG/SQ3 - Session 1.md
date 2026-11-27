@@ -45,4 +45,3 @@ graph
 - Helene Rousseau
 - Isabelle Morin
 - Abbe Faria
-- 
