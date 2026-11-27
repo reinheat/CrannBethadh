@@ -6,6 +6,7 @@
       {
         "id": "bea5ec83af50a11e",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "278ff914dbfedf2c",
@@ -40,6 +41,7 @@
       {
         "id": "6a8a5a72baf0ae9e",
         "type": "tabs",
+        "dimension": 37.751937984496124,
         "children": [
           {
             "id": "255a49697bb73902",
@@ -60,6 +62,7 @@
       {
         "id": "559706605d7f8af4",
         "type": "split",
+        "dimension": 28.914728682170544,
         "children": [
           {
             "id": "56791a9b664b4ad7",
@@ -302,10 +305,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "255a49697bb73902",
+  "active": "278ff914dbfedf2c",
   "lastOpenFiles": [
-    "TTRPG/Squad 3.md",
+    "GBPOI.md",
     "TTRPG/SQ3 - Session 1.md",
+    "TTRPG/Squad 3.md",
     "TTRPG/GH-01.md",
     "GH-01.md",
     "SQ3 - Session 1.md",
@@ -330,7 +334,6 @@
     "Essays/Meditating On Meditation - A Review on Meditations by Marcus Aurelius.md",
     "Essays/Maggie's Character Shift in Alice Walker's Everyday Use.md",
     "Essays/The Motif of Distractions in Irwin Shaw's The Girls in Their Summer Dresses.md",
-    "SETUP.md",
     "New Text Document.txt",
     "Education",
     "Reviews",
