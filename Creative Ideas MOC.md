@@ -15,3 +15,4 @@ tags:
 - [[NIGHTHAWKS]] - A work in progress web browser mystery game. Explore the Academy and investigate the death of Cecily Smith and how she mysteriously died in a room with no murderers. 
 - [[No Light in Zalinski]] - An urban war horror game, inspired by the [[S.T.A.L.K.E.R]] franchise. In the war torn city of Zalinksi all communications are down and the last rescue vessel is on course to enter a minefield. Will you be able to get to the radio tower and warn them before their demise?
 - [[Death's Due]] - A pirate game, inspired by [[Pirates of the Caribbean]], steal the vessel of death and see if you can manage to pawn it off before Death returns the favor. 
+- [[Squad 3]]
