@@ -16,7 +16,7 @@
               "state": {
                 "file": "TTRPG/SQ3 - Session 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SQ3 - Session 1"
@@ -307,8 +307,8 @@
   },
   "active": "278ff914dbfedf2c",
   "lastOpenFiles": [
-    "GBPOI.md",
     "TTRPG/SQ3 - Session 1.md",
+    "GBPOI.md",
     "TTRPG/Squad 3.md",
     "TTRPG/GH-01.md",
     "GH-01.md",
